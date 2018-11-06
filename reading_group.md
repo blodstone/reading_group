@@ -37,8 +37,8 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 
 * **Wed 21 Nov 2018**
 	
-	- **Paper:** TBA
-	- **Moderator:** TBA
+	- **Paper:** Hardy
+	- **Moderator:** Lyu and Titov (2018), [AMR Parsing as Graph Prediction with Latent Alignment](https://arxiv.org/pdf/1805.05286.pdf)
 	- **Room:** TBA
 
 
